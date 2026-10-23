@@ -1,0 +1,6 @@
+job_id,position,industry,top_candidate_resume_id,top_candidate_category,top_score,dominant_category_in_top20
+JD001,Graduate Intern (Summer 2017) - SAP BI / Big Data / Analytics / Visualization,Information Technology,222,Information Technology,47.4,Information Technology
+JD003,"Manager, Pricing Management Information Systems",Finance,845,Finance,33.7,Engineering
+JD009,Digital Marketing Intern,Business Services,446,Business Development,43.6,Business Development
+JD012,Data Scientist Intern,Health Care,216,Information Technology,38.3,Information Technology
+JD089,Audit Intern - Winter,Accounting & Legal,126,Managment,43.0,HR

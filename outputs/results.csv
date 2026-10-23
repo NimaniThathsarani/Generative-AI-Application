@@ -1,0 +1,15 @@
+job_id,job_title,candidate_name,final_score,semantic_score,skill_overlap_pct,matched_skills,missing_skills
+JD001,Data Analyst,Ashen Perera,61.3,53.8,72.7,communication; data analysis; machine learning; pandas; power bi; python; sql; tableau,data visualization; excel; problem solving
+JD001,Data Analyst,Tharindu Wickrama,46.9,35.7,63.6,communication; data analysis; data visualization; excel; machine learning; power bi; python,pandas; problem solving; sql; tableau
+JD001,Data Analyst,Sanduni Weerasinghe,13.6,16.6,9.1,communication,data analysis; data visualization; excel; machine learning; pandas; power bi; problem solving; python; sql; tableau
+JD001,Data Analyst,Kasun Silva,12.2,8.2,18.2,communication; problem solving,data analysis; data visualization; excel; machine learning; pandas; power bi; python; sql; tableau
+JD001,Data Analyst,Nadeesha Jayasuriya,11.5,13.1,9.1,problem solving,communication; data analysis; data visualization; excel; machine learning; pandas; power bi; python; sql; tableau
+JD001,Data Analyst,Chamodi Rathnayake,10.9,12.2,9.1,excel,communication; data analysis; data visualization; machine learning; pandas; power bi; problem solving; python; sql; tableau
+JD001,Data Analyst,Dilani Fernando,2.8,4.7,0.0,,communication; data analysis; data visualization; excel; machine learning; pandas; power bi; problem solving; python; sql; tableau
+JD002,HR Recruiter,Dilani Fernando,58.1,48.3,72.7,ats; labor law; linkedin recruiter; negotiation; onboarding; screening; sourcing; talent acquisition,communication; interviewing; time management
+JD002,HR Recruiter,Sanduni Weerasinghe,15.0,12.9,18.2,communication; time management,ats; interviewing; labor law; linkedin recruiter; negotiation; onboarding; screening; sourcing; talent acquisition
+JD002,HR Recruiter,Chamodi Rathnayake,9.9,10.5,9.1,onboarding,ats; communication; interviewing; labor law; linkedin recruiter; negotiation; screening; sourcing; talent acquisition; time management
+JD002,HR Recruiter,Ashen Perera,7.9,7.0,9.1,communication,ats; interviewing; labor law; linkedin recruiter; negotiation; onboarding; screening; sourcing; talent acquisition; time management
+JD002,HR Recruiter,Nadeesha Jayasuriya,5.2,8.7,0.0,,ats; communication; interviewing; labor law; linkedin recruiter; negotiation; onboarding; screening; sourcing; talent acquisition; time management
+JD002,HR Recruiter,Kasun Silva,4.8,1.9,9.1,communication,ats; interviewing; labor law; linkedin recruiter; negotiation; onboarding; screening; sourcing; talent acquisition; time management
+JD002,HR Recruiter,Tharindu Wickrama,4.7,1.8,9.1,communication,ats; interviewing; labor law; linkedin recruiter; negotiation; onboarding; screening; sourcing; talent acquisition; time management
